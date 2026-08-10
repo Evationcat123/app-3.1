@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">WebBoard</string>
+    <string name="ime_name">WebBoard Keyboard</string>
+    <string name="ime_settings">WebBoard settings</string>
+
+    <string name="settings_title">WebBoard</string>
+    <string name="settings_intro">Eine Tastatur mit integriertem Browser. Öffne Androids Tastaturauswahl und wähle WebBoard.</string>
+    <string name="btn_manage_keyboards">Tastaturen verwalten</string>
+    <string name="btn_choose_keyboard">Tastatur auswählen</string>
+
+    <string name="section_design">Design</string>
+    <string name="section_preview">Live-Vorschau</string>
+    <string name="section_key_color">Tastenfarbe</string>
+    <string name="section_background_color">Hintergrundfarbe</string>
+    <string name="section_text_color">Schriftfarbe</string>
+    <string name="section_special_color">Farbe der Sondertasten</string>
+    <string name="section_enter_color">Farbe der Enter-Taste</string>
+    <string name="section_backspace_color">Farbe der Backspace-Taste</string>
+    <string name="section_appearance">Weitere Optionen</string>
+
+    <string name="label_transparency">Transparenz des Tastaturhintergrunds</string>
+    <string name="label_corner_radius">Rundung der Tasten</string>
+    <string name="label_spacing">Abstand zwischen den Tasten</string>
+    <string name="label_key_size">Größe der Tasten</string>
+    <string name="label_font_size">Schriftgröße</string>
+    <string name="label_press_effect">Press-/Touch-Effekt</string>
+
+    <string name="hint_hex_color">#RRGGBB</string>
+    <string name="btn_apply_custom_color">Übernehmen</string>
+    <string name="btn_reset_defaults">Auf Standard zurücksetzen</string>
+    <string name="msg_invalid_color">Ungültiger Farbcode, z. B. #3B82F6</string>
+    <string name="msg_reset_done">Design wurde zurückgesetzt</string>
+
+    <string name="preview_key_a">a</string>
+    <string name="preview_key_special">⇧</string>
+    <string name="preview_key_enter">↵</string>
+    <string name="preview_key_backspace">⌫</string>
+</resources>
