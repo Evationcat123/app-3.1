@@ -1,0 +1,28 @@
+<resources>
+    <!-- Legacy tokens (kept for compatibility, no longer referenced directly) -->
+    <color name="key_bg">#F2F2F2</color>
+    <color name="key_text">#111111</color>
+    <color name="panel_bg">#FFFFFF</color>
+
+    <!-- Modern default theme (used by KeyboardTheme when no user preference is stored) -->
+    <color name="default_key_color">#FFFFFF</color>
+    <color name="default_background_color">#F1F3F4</color>
+    <color name="default_text_color">#1F1F1F</color>
+    <color name="default_special_key_color">#E4E7EB</color>
+    <color name="default_enter_key_color">#3B82F6</color>
+    <color name="default_backspace_key_color">#E4E7EB</color>
+
+    <!-- Preset swatches offered in the settings color pickers -->
+    <color name="preset_white">#FFFFFF</color>
+    <color name="preset_light_gray">#E4E7EB</color>
+    <color name="preset_dark_gray">#3C4043</color>
+    <color name="preset_black">#111111</color>
+    <color name="preset_blue">#3B82F6</color>
+    <color name="preset_indigo">#6366F1</color>
+    <color name="preset_green">#10B981</color>
+    <color name="preset_red">#EF4444</color>
+    <color name="preset_orange">#F59E0B</color>
+    <color name="preset_teal">#14B8A6</color>
+    <color name="preset_purple">#A855F7</color>
+    <color name="preset_pink">#EC4899</color>
+</resources>
