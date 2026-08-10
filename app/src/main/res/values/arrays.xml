@@ -1,0 +1,16 @@
+<resources>
+    <array name="preset_palette">
+        <item>@color/preset_white</item>
+        <item>@color/preset_light_gray</item>
+        <item>@color/preset_dark_gray</item>
+        <item>@color/preset_black</item>
+        <item>@color/preset_blue</item>
+        <item>@color/preset_indigo</item>
+        <item>@color/preset_green</item>
+        <item>@color/preset_red</item>
+        <item>@color/preset_orange</item>
+        <item>@color/preset_teal</item>
+        <item>@color/preset_purple</item>
+        <item>@color/preset_pink</item>
+    </array>
+</resources>
